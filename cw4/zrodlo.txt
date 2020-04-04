@@ -1,0 +1,2 @@
+To jest testowy plik.
+Dru		ga linia. 0000 xx;
